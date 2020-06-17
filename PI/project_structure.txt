@@ -1,0 +1,30 @@
+PI
+|----PI
+     |----__pycache__
+     |----__init__.py
+     |----asgi.py
+     |----settings.py
+     |----urls.py
+     |----wsgi.py
+|----static
+     |----css
+          |----style.css
+|----templates
+    |----MyApp
+        |----about.html
+        |----contact_us.html
+        |----home.html
+        |----products_and_services.html
+|-----webapp
+      |----migrations
+      |----__init__.py
+      |----admin.py
+      |----apps.py
+      |----models.py
+      |----tests.py
+      |----views.py
+|
+|
+|
+|
+|
